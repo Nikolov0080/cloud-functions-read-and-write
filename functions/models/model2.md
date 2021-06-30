@@ -1,0 +1,1 @@
+Queries =   ?collection=foods&doc=pizza&ref=drinks

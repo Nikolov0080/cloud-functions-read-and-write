@@ -1,0 +1,23 @@
+{
+    "firestoreData": {
+        "collection": "foods",
+        "doc": "pizza",
+        "data": {
+            "cheese pizza": 12,
+            "peperoni pizza": 14,
+            "meat pizza": 17,
+            "buffalo pizza": 10,
+            "supreme pizza": 20
+        }
+    },
+    "databaseData": {
+        "ref": "drinks",
+        "data": [
+            "coke",
+            "water",
+            "pepsi",
+            "tea",
+            "coffee"
+        ]
+    }
+}
